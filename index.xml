@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jérôme Vanderstichelen</title><link>http://example.org/</link><description>Recent content on Jérôme Vanderstichelen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://example.org/description/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/description/</guid><description>Jérôme Vanderstichelen Assets Motivated, autodidact, quick-learner Knowledge I can dive in any languages, but I mainly worked with:
-Java, Kotlin, Python, and more recently Rust</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jérôme Vanderstichelen</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Jérôme Vanderstichelen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/description/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/description/</guid>
+      <description>Jérôme Vanderstichelen Assets  Motivated, autodidact, quick-learner  Knowledge I can dive in any languages, but I mainly worked with:
+ Java, Kotlin, Python, and more recently Rust  </description>
+    </item>
+    
+  </channel>
+</rss>
