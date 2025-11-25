@@ -7,7 +7,7 @@ jervds.github.io
 
 ## 🎯 Introduction
 
-Passionate and resolutely optimistic software engineer, I thrive in exploring new technologies and implementing innovative solutions. Always looking for ways to optimize processes and make projects more efficient and sustainable.
+Passionate and resolutely optimistic software engineer, I thrive in exploring new technologies and designing innovative solutions. I am constantly seeking to improve existing processes—saving time, reducing costs, or making systems more energy-efficient. Driven by curiosity, I enjoy experimenting with new tools, automating workflows, and applying responsible digital practices. I am particularly motivated by challenges that blend performance, reliability, and environmental responsibility, and I strive to bring this mindset into every project.
 
 ---
 
